@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "question": "Câu 1",
+        "options": [
+            {"text": "Tôi quyết định nhanh, dứt khoát và xử lý việc ngay lập tức, không chần chừ", "group": "D"},
+            {"text": "Tôi cởi mở và thích có nhiều bạn bè", "group": "I"},
+            {"text": "Tôi cảm thấy hài lòng với cuộc sống", "group": "S"},
+            {"text": "Tôi là một người ít nói", "group": "C"}
+        ]
+    },
+    {
+        "id": 2,
+        "question": "Câu 2",
+        "options": [
+            {"text": "Tôi xử lý mọi việc bằng ngoại giao", "group": "I"},
+            {"text": "Tôi không thích xây dựng các mối quan hệ cá nhân hoặc nói chuyện phiếm trong công việc", "group": "D"},
+            {"text": "Tôi rụt rè, không tự tin đi đầu trong các công việc", "group": "S"},
+            {"text": "Tôi thích nói chuyện trên chứng cứ và văn bản", "group": "C"}
+        ]
+    }
+]

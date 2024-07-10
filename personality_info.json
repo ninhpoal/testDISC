@@ -1,0 +1,92 @@
+[
+    {
+        "personalityGroup": "DI",
+        "personalityName": "Người tìm kiếm (Thống Trị và Ảnh Hưởng)",
+        "style": [
+            "Bạn có xu hướng hành động và nhiệt tình. Tuy nhiên, thiên hướng hành động sẽ tập trung nhiều vào một nhiệm vụ hơn là một mối quan hệ.",
+            "Bạn là những người có ý chí mạnh mẽ, tự chủ và độc lập.",
+            "Bạn năng nổ và sẵn sàng hành động vì mọi người.",
+            "Bạn quyết đoán và táo bạo.",
+            "Bạn luôn được thúc đẩy bằng niềm tin chiến thắng và cạnh tranh để đạt tới thành công.",
+            "Bạn thích mang đến sự sáng tạo và đổi mới cho môi trường làm việc, luôn tìm kiếm những ý tưởng mới mẻ.",
+            "Những công việc lặp lại và nhàm chán sẽ dễ khiến bạn cảm thấy bực bội, khó chịu. Bên cạnh đó, chúng sẽ khiến bạn không phát huy hết được khả năng lãnh đạo bẩm sinh.",
+            "Bạn làm việc tốt theo nhóm với tiến độ làm việc khẩn trương và có định hướng rõ ràng.",
+            "Bạn có khả năng thích nghi nhanh chóng với môi trường, luôn tự chủ, yêu thích học hỏi và quan tâm vào kết quả cuối cùng.",
+            "Bạn phát triển tốt trong môi trường có nhiều sự thay đổi, hứng thú và tự phát hơn là những môi trường có nhịp độ chậm và tẻ nhạt."
+        ],
+        "leadershipStyle": [
+            "Bạn là nhà lãnh đạo tiên phong, tìm cách mở rộng giới hạn, tìm kiếm cơ hội và đạt được kết quả.",
+            "Bạn có phần hơi tự kiêu, khó thừa nhận sai lầm và có thể tạo áp lực cho người khác."
+        ],
+        "improvementPoints": [
+            "Bạn đôi khi lo lắng khi không thể kiểm soát quyền lực khiến bạn trở nên không kiên nhẫn, ép buộc người khác.",
+            "Bạn giải quyết vấn đề một cách trực diện. Đôi lúc, bạn bộc phát và nói những điều khiến bạn phải hối tiếc.",
+            "Bạn không quan trọng tiểu tiết nên những công việc yêu cầu sự tập trung vào các chi tiết nhỏ sẽ không phù hợp với bạn.",
+            "Bạn cần học cách kiên nhẫn, khiêm tốn và lắng nghe ý kiến từ người khác."
+        ],
+        "suitableCareers": [
+            "Giám đốc điều hành",
+            "Giám đốc kinh doanh",
+            "Giám đốc Marketing",
+            "Nhà báo",
+            "Nhân viên tiếp thị",
+            "Đại diện bán hàng",
+            "Diễn viên",
+            "Ca sĩ",
+            "Người mẫu",
+            "Diễn giả"
+        ]
+    },
+    {
+        "personalityGroup": "DS",
+        "personalityName": "Người hòa hợp (Thống Trị và Ổn Định)",
+        "style": [
+            "Bạn có xu hướng mạnh mẽ và quyết đoán nhưng vẫn giữ được sự ổn định và đáng tin cậy.",
+            "Bạn là người lãnh đạo tự nhiên, luôn bảo vệ và hỗ trợ nhóm của mình.",
+            "Bạn có khả năng đưa ra quyết định nhanh chóng và hiệu quả.",
+            "Bạn có sự kiên nhẫn và khả năng lắng nghe tốt.",
+            "Bạn luôn tập trung vào mục tiêu dài hạn và duy trì sự ổn định trong công việc."
+        ],
+        "leadershipStyle": [
+            "Bạn là nhà lãnh đạo cương quyết, đưa ra quyết định rõ ràng và giữ vững lập trường.",
+            "Bạn quan tâm đến nhóm của mình và luôn sẵn sàng hỗ trợ họ."
+        ],
+        "improvementPoints": [
+            "Bạn có thể trở nên quá bảo thủ và khó chấp nhận thay đổi.",
+            "Bạn cần học cách linh hoạt hơn trong việc tiếp nhận ý kiến từ người khác."
+        ],
+        "suitableCareers": [
+            "Quản lý dự án",
+            "Quản lý nhân sự",
+            "Cố vấn chiến lược",
+            "Nhà đào tạo",
+            "Giảng viên"
+        ]
+    },
+    {
+        "personalityGroup": "DC",
+        "personalityName": "Người phân tích (Thống Trị và Tuân Thủ)",
+        "style": [
+            "Bạn quyết đoán và tập trung vào kết quả.",
+            "Bạn có khả năng phân tích và đánh giá cao.",
+            "Bạn luôn đảm bảo công việc được hoàn thành một cách chính xác và hiệu quả.",
+            "Bạn có kỹ năng quản lý thời gian và tài nguyên tốt."
+        ],
+        "leadershipStyle": [
+            "Bạn là nhà lãnh đạo chi tiết, đưa ra quyết định dựa trên dữ liệu và sự phân tích.",
+            "Bạn yêu cầu cao về chất lượng công việc và luôn đảm bảo mọi thứ đều hoàn hảo."
+        ],
+        "improvementPoints": [
+            "Bạn cần học cách chấp nhận những sai sót nhỏ và không quá cầu toàn.",
+            "Bạn nên mở rộng khả năng giao tiếp và hợp tác với người khác."
+        ],
+        "suitableCareers": [
+            "Kế toán",
+            "Kiểm toán",
+            "Quản lý chất lượng",
+            "Nhà phân tích tài chính",
+            "Kỹ sư"
+        ]
+    }
+   
+]
