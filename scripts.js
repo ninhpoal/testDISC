@@ -193,12 +193,13 @@ document.addEventListener('DOMContentLoaded', function () {
             userInfoModal.show();
         });
         function sendDataToGoogleSheets(data) {
-            fetch('https://script.google.com/macros/s/AKfycbxlDf8yuQrR_DLUckLkcGzJ8xviHIdn482POmsazyRfsf9SNg9fci1Bv9w06ikm3WNFxw/exec', {
+            fetch('https://script.google.com/macros/s/AKfycbx7N79uod4APVa_GKRiME8WGtyn9LSdKYd1OmBadbV-7BRqL0uUe6b1YEYp-mtfEtRn8Q/exec', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json'
                 },
-                body: JSON.stringify(data)
+                body: JSON.stringify(data),
+                mode: 'no-cors'     
             })
             .then(response => response.json())
             .then(data => {
